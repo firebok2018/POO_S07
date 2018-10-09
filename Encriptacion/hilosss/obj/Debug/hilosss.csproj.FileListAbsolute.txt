@@ -1,0 +1,9 @@
+D:\POO_S07\Encriptacion\hilosss\bin\Debug\hilosss.exe.config
+D:\POO_S07\Encriptacion\hilosss\bin\Debug\hilosss.exe
+D:\POO_S07\Encriptacion\hilosss\bin\Debug\hilosss.pdb
+D:\POO_S07\Encriptacion\hilosss\obj\Debug\hilosss.Form1.resources
+D:\POO_S07\Encriptacion\hilosss\obj\Debug\hilosss.Properties.Resources.resources
+D:\POO_S07\Encriptacion\hilosss\obj\Debug\hilosss.csproj.GenerateResource.cache
+D:\POO_S07\Encriptacion\hilosss\obj\Debug\hilosss.csproj.CoreCompileInputs.cache
+D:\POO_S07\Encriptacion\hilosss\obj\Debug\hilosss.exe
+D:\POO_S07\Encriptacion\hilosss\obj\Debug\hilosss.pdb

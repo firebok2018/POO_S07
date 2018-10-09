@@ -1,0 +1,10 @@
+D:\POO_S07\Encriptacion\progressBAR\bin\Debug\progressBAR.exe.config
+D:\POO_S07\Encriptacion\progressBAR\bin\Debug\progressBAR.exe
+D:\POO_S07\Encriptacion\progressBAR\bin\Debug\progressBAR.pdb
+D:\POO_S07\Encriptacion\progressBAR\obj\Debug\progressBAR.Form1.resources
+D:\POO_S07\Encriptacion\progressBAR\obj\Debug\progressBAR.Properties.Resources.resources
+D:\POO_S07\Encriptacion\progressBAR\obj\Debug\progressBAR.csproj.GenerateResource.cache
+D:\POO_S07\Encriptacion\progressBAR\obj\Debug\progressBAR.csproj.CoreCompileInputs.cache
+D:\POO_S07\Encriptacion\progressBAR\obj\Debug\progressBAR.exe
+D:\POO_S07\Encriptacion\progressBAR\obj\Debug\progressBAR.pdb
+D:\POO_S07\Encriptacion\progressBAR\obj\Debug\progressBAR.csprojAssemblyReference.cache

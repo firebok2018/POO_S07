@@ -1,0 +1,6 @@
+D:\POO_S07\Encriptacion\hilos\bin\Debug\hilos.exe.config
+D:\POO_S07\Encriptacion\hilos\bin\Debug\hilos.exe
+D:\POO_S07\Encriptacion\hilos\bin\Debug\hilos.pdb
+D:\POO_S07\Encriptacion\hilos\obj\Debug\hilos.csproj.CoreCompileInputs.cache
+D:\POO_S07\Encriptacion\hilos\obj\Debug\hilos.exe
+D:\POO_S07\Encriptacion\hilos\obj\Debug\hilos.pdb
